@@ -1,2 +1,2 @@
 UPDATE characters SET species = "Martian"
-WHERE species = "cyclon";
+WHERE species = MAX.id;
